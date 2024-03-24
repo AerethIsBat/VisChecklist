@@ -1,0 +1,20 @@
+
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+issueTrackerURL="https://github.com/AerethIsBat/VisChecklist/issues"
+clientSideOnly=true
+
+[[mods]]
+modId="vischecklist"
+version="${mod_version}"
+displayName="${mod_name}"
+updateJSONURL="https://github.com/AerethIsBat/VisChecklist/blob/main/updates.json"
+displayURL="https://github.com/AerethIsBat/VisChecklist"
+logoFile="logo.png"
+credits="Thank you for downloading my mods!"
+authors="${mod_authors}"
+displayTest="IGNORE_SERVER_VERSION"
+description='''
+A mod that adds an in-game checklist to track obtained items, slain enemies, visited locations, and more!
+'''

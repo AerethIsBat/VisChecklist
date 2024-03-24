@@ -16,6 +16,7 @@ out
 #other
 *.jar
 .gitattributes
+run/*
 
 # gradle
 /build/*
@@ -23,3 +24,4 @@ out
 /gradle/*
 gradlew
 gradlew.bat
+settings.gradle
